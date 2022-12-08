@@ -1,0 +1,4 @@
+Python==3.8.10
+PostgreSQL==12.12
+SQLAlchemy==1.4.44
+
