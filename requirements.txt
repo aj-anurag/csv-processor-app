@@ -1,4 +1,7 @@
 Python==3.8.10
 PostgreSQL==12.12
 SQLAlchemy==1.4.44
+FastAPI==0.88.0
+uvicorn==0.20.0
+
 
